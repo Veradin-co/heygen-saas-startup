@@ -28,7 +28,7 @@ const features = [
   {
     icon: FlashIcon,
     title: 'Fast Rendering',
-    description: 'Generate broadcast-quality video in minutes, not hours — powered by our GPU cluster.',
+    description: 'Generate broadcast-quality video in minutes, not hours. Powered by our GPU cluster.',
   },
   {
     icon: BrushIcon,
@@ -51,7 +51,7 @@ export default function Features() {
             Everything you need to go live
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            A complete AI video studio — from script to screen — without any of the complexity.
+            A complete AI video studio, from script to screen, without any of the complexity.
           </p>
         </div>
 

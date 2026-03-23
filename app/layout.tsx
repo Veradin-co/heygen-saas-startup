@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Heygen — AI Video Creation",
+  title: "Heygen: AI Video Creation",
   description: "Create stunning AI-powered videos in minutes. No camera, no crew, no editing required.",
 };
 

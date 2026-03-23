@@ -7,7 +7,7 @@ export default function Hero() {
     <section className="relative overflow-hidden py-20 md:py-32">
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="grid md:grid-cols-2 gap-12 items-center">
-          {/* Left — copy */}
+          {/* Left - copy */}
           <div className="flex flex-col gap-6">
             <Badge variant="secondary" className="w-fit">
               Now in public beta
@@ -16,7 +16,7 @@ export default function Hero() {
               No fuss AI Video Creation for Social Media
             </h1>
             <p className="text-lg text-muted-foreground max-w-md">
-              Turn scripts, text, and ideas into professional-quality videos in minutes — no camera, no crew, no editing required.
+              Turn scripts, text, and ideas into professional-quality videos in minutes. No camera, no crew, no editing required.
             </p>
             <div className="flex flex-col sm:flex-row gap-3">
               <Button size="lg" render={<Link href="/signup" />}>
@@ -31,7 +31,7 @@ export default function Hero() {
             </p>
           </div>
 
-          {/* Right — graphic placeholder */}
+          {/* Right - graphic placeholder */}
           <div className="relative flex items-center justify-center">
             <div className="w-full aspect-video rounded-2xl bg-muted border flex items-center justify-center">
               <div className="flex flex-col items-center gap-3 text-muted-foreground">
