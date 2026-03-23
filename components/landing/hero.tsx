@@ -13,7 +13,7 @@ export default function Hero() {
               Now in public beta
             </Badge>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight leading-tight">
-              Create stunning videos with AI
+              No fuss AI Video Creation for Social Media
             </h1>
             <p className="text-lg text-muted-foreground max-w-md">
               Turn scripts, text, and ideas into professional-quality videos in minutes — no camera, no crew, no editing required.
