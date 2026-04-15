@@ -39,3 +39,10 @@ No test framework is configured.
 **Backend**: Supabase via `@supabase/supabase-js` and `@supabase/ssr`. No environment variables are configured yet — create `.env.local` with `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY`.
 
 **Path alias**: `@/*` resolves to the project root.
+
+## System Paths
+
+- **Code:** `~/Local_claude_projects/heygen-saas-startup/`
+- **GitHub:** `github.com/Veradin-co/heygen-saas-startup` (private)
+- **Obsidian notes:** `Veradin_GD_Vault/Obsidian/10 - Projects/heygen-saas-startup/`
+- **System architecture:** `~/.claude/SYSTEM.md`
