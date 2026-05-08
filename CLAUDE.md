@@ -1,3 +1,5 @@
+> ⚠️ **SECURITY-TODO before resuming this project:** plaintext secrets pending 1Password migration. See [`SECURITY-TODO.md`](./SECURITY-TODO.md). Locked 2026-05-08.
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
